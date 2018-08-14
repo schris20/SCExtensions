@@ -1,0 +1,16 @@
+PODS:
+  - SCExtensions (0.1.0)
+
+DEPENDENCIES:
+  - SCExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  SCExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SCExtensions: 17ef47e9147a8e1270532c96a0c57e3e7a8d9f86
+
+PODFILE CHECKSUM: d4668eebad384ef6027c6543c1725794722cc1b5
+
+COCOAPODS: 1.5.3

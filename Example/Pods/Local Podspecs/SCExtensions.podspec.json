@@ -1,0 +1,22 @@
+{
+  "name": "SCExtensions",
+  "version": "0.1.0",
+  "summary": "A short description of SCExtensions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Stefanos Christodoulides/SCExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Stefanos Christodoulides": "schris@aylonvalue.com"
+  },
+  "source": {
+    "git": "https://github.com/Stefanos Christodoulides/SCExtensions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SCExtensions/Classes/**/*"
+}

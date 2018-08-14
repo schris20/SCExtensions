@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SCExtensions_Tests' do
+  pod 'SCExtensions', :path => '../'
+  
+  
+end

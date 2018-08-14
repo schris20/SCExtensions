@@ -1,0 +1,6 @@
+framework module SCExtensions {
+  umbrella header "SCExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}
