@@ -1,6 +1,4 @@
 # SCExtensions
-
-[![CI Status](https://img.shields.io/travis/Stefanos Christodoulides/SCExtensions.svg?style=flat)](https://travis-ci.org/Stefanos Christodoulides/SCExtensions)
 [![Version](https://img.shields.io/cocoapods/v/SCExtensions.svg?style=flat)](https://cocoapods.org/pods/SCExtensions)
 [![License](https://img.shields.io/cocoapods/l/SCExtensions.svg?style=flat)](https://cocoapods.org/pods/SCExtensions)
 [![Platform](https://img.shields.io/cocoapods/p/SCExtensions.svg?style=flat)](https://cocoapods.org/pods/SCExtensions)
@@ -22,7 +20,7 @@ pod 'SCExtensions'
 
 ## Author
 
-Stefanos Christodoulides, schris@aylonvalue.com
+Stefanos Christodoulides, schris186@gmail.com
 
 ## License
 
